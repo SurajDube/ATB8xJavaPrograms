@@ -9,3 +9,5 @@ public class Task001 {
         System.out.println("Hello and welcome Task 001");
         }
     }
+// without main method program will compile but not run.
+// main method can be overloaded but different signature.
