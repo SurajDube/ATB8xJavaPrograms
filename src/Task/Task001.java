@@ -1,13 +1,8 @@
 package Task;
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Task001 {
     public static void main(String[] args) {
-        //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
-        // to see how IntelliJ IDEA suggests fixing it.
-        System.out.println("Hello and welcome Task 001");
-        }
+        System.out.println("hello");
     }
-// without main method program will compile but not run.
-// main method can be overloaded but different signature.
+}
+// we can overload main method with different signature
