@@ -9,5 +9,6 @@ public class arithmatic_operators {
         System.out.println(a * b);
         System.out.println(a / b);
         System.out.println(a % b);
+
     }
 }
