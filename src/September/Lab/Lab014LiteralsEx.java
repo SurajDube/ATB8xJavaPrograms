@@ -1,10 +1,12 @@
-package September;
+package September.Lab;
 
-public class Lab015Literals {
-        public static void main(String args[])
+import com.sun.jdi.FloatValue;
+
+public class Lab014LiteralsEx {
+        public static void main (String args[])
         {
             int count = 987;
-            float floatVal = 4534.99f;
+            float Float = 4534.99f;
             double cost = 19765.567;
             int hexaVal = 0x7e4;
             int binary = 0b11010;
@@ -16,7 +18,7 @@ public class Lab015Literals {
             char ch1 = '\u0021';
             char ch2 = 1456;
             System.out.println(count);
-            System.out.println(floatVal);
+            System.out.println(Float);
             System.out.println(cost);
             System.out.println(hexaVal);
             System.out.println(binary);
@@ -26,7 +28,7 @@ public class Lab015Literals {
             System.out.println(octalVal);
             System.out.println(stuName);
             System.out.println(ch1);
-            System.out.println("\t" +"backslash literal");
+            System.out.println("\t" + "backslash literal");
             System.out.println(ch2);
         }
     }
