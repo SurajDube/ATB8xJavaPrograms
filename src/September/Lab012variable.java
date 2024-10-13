@@ -1,4 +1,4 @@
-package September.Lab;
+package September;
 
 public class Lab012variable {
 
