@@ -1,6 +1,6 @@
 package Task;
 
-public class Task001 {
+public class Task001_01Sep24 {
     public static void main(String[] args) {
         System.out.println("hello");
     }

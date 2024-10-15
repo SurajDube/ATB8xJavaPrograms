@@ -2,7 +2,7 @@ package Task;
 
 import java.util.Scanner;
 
-public class Task003CRUDinputTakeingFromUser {
+public class Task003CRUDinputTakeingFromUser_16Sep {
     public static void main(String[] args) {
         int x,y,addition, Subtraction ,multiplication, Division, modulus;
 

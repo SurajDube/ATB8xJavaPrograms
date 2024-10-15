@@ -2,7 +2,7 @@ package Task;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-public class Task002TableWithoutLoop {
+public class Task002TableWithoutLoop_13Sep {
     public static void main(String[] args) {
         int num = 10;
         // this technique will not with println() so we use printf()
