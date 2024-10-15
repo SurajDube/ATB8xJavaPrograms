@@ -9,8 +9,9 @@ public class unary_Increament_Decreament {
 
           System.out.println(++a);    //pre increment: first increase then it will store to the variable 11.
           System.out.println(a++);    //post increment: first store to the variable then value will increase 10.
+            System.out.println(--a);    //pre decreament: first increase then it will store to the variable 9.
           System.out.println(a--);  //post decreament: first increase then it will store to the variable 10.
-          System.out.println(--a);    //pre decreament: first increase then it will store to the variable 9.
+
 
            /* // Using unary operators
             System.out.println("Postincrement : " + (a++));
