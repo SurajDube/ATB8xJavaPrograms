@@ -1,6 +1,6 @@
-package ex_20092024_ControlStatement;
+package Task;
 
-public class Lab075_GradeSystem {
+public class Task013_GradeSystem_20Sep {
     public static void main(String[] args) {
         int score = 1050;
 

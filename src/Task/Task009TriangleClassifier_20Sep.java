@@ -14,15 +14,15 @@ public class Task009TriangleClassifier_20Sep {
 // side1, side2, side3 ->
 
         Scanner SC1 = new Scanner(System.in);
-        System.out.println("Enter side 1 value of the triangle");
+        System.out.println("Enter side 1 value of the triangle:");
         double side1 = SC1.nextDouble();
 
         Scanner SC2 = new Scanner(System.in);
-        System.out.println("Enter side 2 value of the triangle");
+        System.out.println("Enter side 2 value of the triangle:");
         double side2 = SC2.nextDouble();
 
         Scanner SC3 = new Scanner(System.in);
-        System.out.println("Enter side 3 value of the triangle");
+        System.out.println("Enter side 3 value of the triangle:");
         double side3 = SC3.nextDouble();
 
         if (side1 >= 1 && side2 >= 1 && side3 >= 1) {
