@@ -1,6 +1,6 @@
 package ex_30Sep2024Function;
 
-public class Lab118 {
+public class Lab118_funtionType4 {
     public static void main(String[] args) {
         int result = function_Type4(3, 5);
         System.out.println(result);

@@ -1,6 +1,6 @@
 package ex_30Sep2024Function;
 
-public class Lab117 {
+public class Lab117_funtionType3 {
 
     public static void main(String[] args) {
         function_Type3("suraj");
