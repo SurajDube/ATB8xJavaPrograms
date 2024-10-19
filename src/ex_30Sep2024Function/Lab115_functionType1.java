@@ -1,6 +1,6 @@
 package ex_30Sep2024Function;
 
-public class Lab115_funtionType1 {
+public class Lab115_functionType1 {
     public static void main(String[] args) {
         for (int i = 0; i < 50; i++) {
             funtionType1();

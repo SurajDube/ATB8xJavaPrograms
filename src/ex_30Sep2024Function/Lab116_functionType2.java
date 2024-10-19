@@ -1,6 +1,6 @@
 package ex_30Sep2024Function;
 
-public class Lab116_funtionType2 {
+public class Lab116_functionType2 {
     public static void main(String[] args) {
         f2();
     }
