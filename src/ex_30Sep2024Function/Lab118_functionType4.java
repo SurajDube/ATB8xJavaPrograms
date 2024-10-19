@@ -7,7 +7,7 @@ public class Lab118_functionType4 {
     }
     //4 with parameter and with return type
     public static int function_Type4(int a , int b){
-        System.out.println("Hello Groot 4.0 you are a with parameter and with return type");
+        System.out.println("with parameter and with return type");
         return a+b;
     }
 }

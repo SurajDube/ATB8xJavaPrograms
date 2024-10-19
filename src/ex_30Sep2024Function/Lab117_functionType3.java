@@ -9,8 +9,6 @@ public class Lab117_functionType3 {
     // 3. with parameter and without return type
     public static void function_Type3(String name) { //ignore static keyword
         System.out.println("you are shared: " + name);
-        System.out.println("Hello Groot 3.0 you are a with parameter and without return type");
-
+        System.out.println("with parameter and without return type");
     }
-
 }
