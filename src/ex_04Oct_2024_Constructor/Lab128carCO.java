@@ -4,10 +4,10 @@ public class Lab128carCO {
     //Constructor Overloading
     public static void main(String[] args) {
         // Creating an object of the Car class
-        carPC car1 = new carPC("toyota");
+        carCO car1 = new carCO();
         car1.display(); //method call
 
-        carPC car2 = new carPC("i20", 2021);
+        carCO car2 = new carCO("i20", 2021);
         car2.display();
     }
 }

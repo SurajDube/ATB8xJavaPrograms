@@ -3,12 +3,11 @@ package ex_04Oct_2024_Constructor;
 public class carCO {
     //Constructor overloading: one method with different signature
     String model;
-    int year;
+    int year=2012;
 
     // Default constructor
     carCO() {
-        this.model = model;
-        this.year = 0;
+        this.year = 2012;
     }
     // Parameterized Constructor
     carCO(String model, int year) {

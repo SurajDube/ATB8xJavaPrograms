@@ -3,7 +3,7 @@ package ex_04Oct_2024_Constructor;
 public class carPC {
     //parameterised constructor
     String model;
-    int year;
+    int year=2024;
 
     // Parameterized Constructor
     carPC(String model) {

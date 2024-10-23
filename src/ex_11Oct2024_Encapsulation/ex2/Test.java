@@ -14,11 +14,6 @@ public class Test {
         System.out.println("ATB name: " + obj.getATBName());
         System.out.println("ATB age: " + obj.getATBAge());
         System.out.println("ATB roll: " + obj.getATBRoll());
-
-        // Direct access of geekRoll is not possible
-        // due to encapsulation
-        // System.out.println("Geek's roll: " +
-        // obj.geekName);
     }
-    }
+}
 
