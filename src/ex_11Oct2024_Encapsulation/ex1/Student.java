@@ -2,7 +2,7 @@ package ex_11Oct2024_Encapsulation.ex1;
 
 public class Student {
     //private data member
-    private String name;
+    private String name;    //always private
 
     //getters
     public String getName() {
