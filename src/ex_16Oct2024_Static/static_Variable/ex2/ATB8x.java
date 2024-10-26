@@ -1,4 +1,4 @@
-package ex_16Oct2024Static.static_Variable.ex2;
+package ex_16Oct2024_Static.static_Variable.ex2;
 
 public class ATB8x {
     // private variables declared

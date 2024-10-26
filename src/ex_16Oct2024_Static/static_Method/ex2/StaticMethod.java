@@ -1,4 +1,4 @@
-package ex_16Oct2024Static.static_Method.ex2;
+package ex_16Oct2024_Static.static_Method.ex2;
 
 public class StaticMethod {
     void hello() {

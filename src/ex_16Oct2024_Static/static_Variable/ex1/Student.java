@@ -1,4 +1,4 @@
-package ex_16Oct2024Static.static_Variable.ex1;
+package ex_16Oct2024_Static.static_Variable.ex1;
 
 public class Student {
     // static variable EXAMPLE

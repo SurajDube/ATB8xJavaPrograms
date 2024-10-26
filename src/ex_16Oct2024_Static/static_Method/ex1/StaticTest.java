@@ -1,4 +1,4 @@
-package ex_16Oct2024Static.static_Method.ex1;
+package ex_16Oct2024_Static.static_Method.ex1;
 
 public class StaticTest {
     // non-static method
