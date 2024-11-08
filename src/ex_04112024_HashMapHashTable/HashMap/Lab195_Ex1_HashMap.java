@@ -1,17 +1,19 @@
-package ex_04112024_Map.HashMap;
+package ex_04112024_HashMapHashTable.HashMap;
 
 import java.util.HashMap;
 import java.util.Map;
 
-public class Lab196_Ex2_HashMap {
-    public static void main(String[] args) {
-        // Creating a map using the HashMap
-        Map<String, Integer> hm = new HashMap<>();
+public class Lab195_Ex1_HashMap {
+    // Main driver method
+    public static void main(String[] args)
+    {
+        // Creating an empty HashMap
+        Map <String, Integer> hm = new HashMap<>();// string key, Integer value
 
-        // Insert elements to the map
-        hm.put("One", 1);
-        hm.put("Two", 2);
-        System.out.println("Map: " + hm);
+        // Inserting entries in the Map
+        // using put() method
+        hm.put("pukhraj: ", 10);
+        hm.put("yamraj: ", 30);
         hm.put("viraj: ", null);
         hm.put("suraj: ", null);
         hm.put(null, null);
@@ -32,19 +34,5 @@ public class Lab196_Ex2_HashMap {
 
             // Printing key-value pairs
             System.out.println(e.getKey() + " " + e.getValue());
-
-        // Access keys of the map
-        System.out.println("Keys: " + hm.keySet());
-
-        // Access values of the map
-        System.out.println("Values: " + hm.values());
-
-        // Access entries of the map
-        System.out.println("Entries: " + hm.entrySet());
-
-        // Remove Elements from the map
-        hm.remove("Two");// using key
-        System.out.println("Removed Value: " + hm);
+        }
     }
-}
-

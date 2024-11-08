@@ -1,19 +1,17 @@
-package ex_04112024_Map.LinkedHashMap;
+package ex_04112024_HashMapHashTable.LinkedHashMap;
 
 import java.util.LinkedHashMap;
 import java.util.Map;
 
-public class Lab199_Ex1_LinkedHashMap {
-    // Main driver method
-    public static void main(String[] args)
-    {
-        // Creating an empty HashMap
-        Map <String, Integer> lhm = new LinkedHashMap<>();// string key, Integer value
+public class Lab200_Ex2_LinkedHashMap {
+    public static void main(String[] args) {
+        // Creating a map using the HashMap
+        LinkedHashMap<String, Integer> lhm = new LinkedHashMap<>();
 
-        // Inserting entries in the Map
-        // using put() method
-        lhm.put("pukhraj: ", 10);
-        lhm.put("yamraj: ", 30);
+        // Insert elements to the map
+        lhm.put("One", 1);
+        lhm.put("Two", 2);
+        System.out.println("Map: " + lhm);
         lhm.put("viraj: ", null);
         lhm.put("suraj: ", null);
         lhm.put(null, null);
@@ -34,5 +32,19 @@ public class Lab199_Ex1_LinkedHashMap {
 
             // Printing key-value pairs
             System.out.println(e.getKey() + " " + e.getValue());
-        }
+
+        // Access keys of the map
+        System.out.println("Keys: " + lhm.keySet());
+
+        // Access values of the map
+        System.out.println("Values: " + lhm.values());
+
+        // Access entries of the map
+        System.out.println("Entries: " + lhm.entrySet());
+
+        // Remove Elements from the map
+        lhm.remove("Two");// using key
+        System.out.println("Removed Value: " + lhm);
     }
+}
+

@@ -1,4 +1,4 @@
-package ex_04112024_Map.LinkedHashMap;
+package ex_04112024_HashMapHashTable.LinkedHashMap;
 
 import java.util.ArrayList;
 import java.util.HashMap;

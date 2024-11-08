@@ -1,6 +1,5 @@
-package ex_04112024_Map.TreeMap;
+package ex_04112024_HashMapHashTable.TreeMap;
 
-import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.TreeMap;
 

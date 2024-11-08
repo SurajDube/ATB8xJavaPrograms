@@ -1,4 +1,4 @@
-package ex_04112024_Map.HashMap;
+package ex_04112024_HashMapHashTable.HashMap;
 
 import java.util.ArrayList;
 import java.util.HashMap;

@@ -1,4 +1,4 @@
-package September.Lab;
+package September;
 
 public class Lab013dentifiers {
     public static void main(String[] args) {
