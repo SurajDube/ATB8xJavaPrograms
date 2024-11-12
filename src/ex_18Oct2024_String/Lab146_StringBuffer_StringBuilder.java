@@ -15,7 +15,7 @@ public class Lab146_StringBuffer_StringBuilder {
         StringBuffer sbu1 = new StringBuffer("The Testing ");
         sbu1.append("Academy");
         System.out.println(sbu1);
-        sbu1.insert(5, 4);  //insert
+        sbu1.insert(5, 4); //insert
         System.out.println(sbf1);
         sbu1.delete(5, 10);  //delete
         System.out.println(sbf1);
