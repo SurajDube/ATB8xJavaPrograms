@@ -1,6 +1,6 @@
 package ex_04112024_Generics;
 
-public class Lab222_generics {
+public class Lab222_genericsMethod {
     public static void main(String[] args) {
         temp1(10);
         temp2(50);
@@ -21,7 +21,4 @@ public class Lab222_generics {
     }public static <V> void temp5(V e) {
         System.out.println(e);
     }
-
-
-
 }
