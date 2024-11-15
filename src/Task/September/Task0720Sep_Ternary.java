@@ -1,6 +1,6 @@
-package Task;
+package Task.September;
 
-public class Task00720Sep_Ternary {
+public class Task0720Sep_Ternary {
     public static void main(String[] args) {
 
         //   By using Ternary Operators max between 3 numbers.

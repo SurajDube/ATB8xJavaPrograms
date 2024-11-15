@@ -1,4 +1,4 @@
-package Task;
+package Task.September;
 
 public class Task013_GradeSystem_20Sep {
     public static void main(String[] args) {
