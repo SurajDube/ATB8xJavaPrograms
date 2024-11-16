@@ -1,4 +1,4 @@
-package Task.Task30Sep2024.countVowel;
+package Task.September.Task30Sep2024.countVowel;
 
 public class countVowel {
     public static void main(String[] args) {

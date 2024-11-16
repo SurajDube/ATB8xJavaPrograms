@@ -1,4 +1,4 @@
-package Task.Task30Sep2024.PrimeNumber;
+package Task.September.Task30Sep2024.PrimeNumber;
 
 import java.util.Scanner;
 

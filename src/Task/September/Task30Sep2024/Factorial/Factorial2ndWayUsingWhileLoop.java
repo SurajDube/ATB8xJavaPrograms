@@ -1,4 +1,4 @@
-package Task.Task30Sep2024.Factorial;
+package Task.September.Task30Sep2024.Factorial;
 
 import java.util.Scanner;
 
