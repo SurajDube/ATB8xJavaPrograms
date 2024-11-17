@@ -5,7 +5,7 @@ public class Lab123_staticMethod {
     {
         show();
     }
-    static void show()
+    public static void show()
     {
         System.out.println("It is an example of static method.");
     }
