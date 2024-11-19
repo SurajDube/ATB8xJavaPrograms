@@ -7,6 +7,8 @@ public class carCO {
 
     // Default constructor
     carCO() {
+        int a=0;
+        System.out.println(a);
         this.year = 2012;
     }
     // Parameterized Constructor
